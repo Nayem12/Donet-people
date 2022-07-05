@@ -33,3 +33,12 @@
     color: white;
     margin-bottom: 40px;
 }
+
+.amount-tk {
+    text-align: center;
+}
+
+amount-list {
+    display: flex;
+    justify-content: space-evenly;
+}
