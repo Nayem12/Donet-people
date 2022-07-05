@@ -1,9 +1,35 @@
+.donet-know {
+    background-image: url(image/received_3408718219344570.jpeg);
+    background-size: cover;
+    width: 100%;
+    height: 100vh;
+
+
+}
+
 .about-donet {
     text-align: center;
-    padding-top: 8%;
+    padding-top: 5%;
+    color: white;
 }
 
 .font-size {
     font-size: 65px;
     margin: 0%;
+}
+
+.design-link {
+    text-decoration: none;
+    border-radius: 8px;
+    border: 18px solid tomato;
+    background-color: tomato;
+    color: white;
+    margin-top: 100px;
+
+
+}
+
+#text-color {
+    color: white;
+    margin-bottom: 40px;
 }
