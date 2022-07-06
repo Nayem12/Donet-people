@@ -25,6 +25,7 @@
     background-color: tomato;
     color: white;
     margin-top: 5%;
+    margin-bottom: 20px;
 
 
 }
@@ -86,4 +87,41 @@
     text-align: center;
     margin-top: 90px;
     font-size: 50px;
+}
+
+.heading {
+    text-align: center;
+}
+
+.donet-plan-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 100px;
+}
+
+.donet-plan-box {
+    width: 400px;
+    padding: 40px 0 30px 20px;
+    background: rgb(240, 237, 238);
+    margin: 0 10px;
+    border-radius: 5px;
+}
+
+#donet-plan-box-active {
+    background-color: rgb(240, 230, 185);
+}
+
+.donet-plan-box img {
+    width: 20%;
+    padding-bottom: 30px;
+}
+
+.donet-plan-box h1 {
+    padding-bottom: 20px;
+    font-weight: 600;
+}
+
+.donet-plan-box p {
+    padding-right: 30px;
 }
