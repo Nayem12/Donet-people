@@ -26,7 +26,6 @@
     color: white;
     margin-top: 100px;
 
-
 }
 
 #text-color {
@@ -36,9 +35,41 @@
 
 .amount-tk {
     text-align: center;
+    padding-top: 50px;
+
 }
 
-amount-list {
+.amount-list {
     display: flex;
     justify-content: space-evenly;
+    padding: 20px;
+    margin-left: 20%;
+    margin-right: 20%;
+
+}
+
+
+.amount-list li {
+    list-style: none;
+    margin: 15px;
+    font-size: 20px;
+    border: 30px solid gainsboro;
+
+}
+
+#border-set {
+    color: rgb(255, 138, 117);
+    border: 2px solid orange;
+    height: 60px;
+    width: 80px;
+    border-radius: 5px;
+    padding-top: 25px;
+}
+
+.other {
+    border-bottom: 1px solid gray;
+    border-left: 20px;
+    margin-bottom: 60px;
+    margin-top: 10px;
+
 }
